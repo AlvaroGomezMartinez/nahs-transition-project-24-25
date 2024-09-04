@@ -1,0 +1,5 @@
+# Ignore .clasp.json
+.clasp.json
+
+# Ignore the appsscript.json
+appsscript.json
